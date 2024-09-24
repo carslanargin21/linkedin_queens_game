@@ -1,0 +1,8 @@
+x x x x x x x y
+b x x x x x y y
+b b g x x x u y
+b r g g x u u u
+r r g x x x x x
+x r x x p x x a
+x x x p p p a a
+x x x x x x x a
